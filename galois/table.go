@@ -1,4 +1,4 @@
-package table
+package galois
 
 // Galois Field (256) Multiplication Table -- Complexity O(1)
 var MultTable = [...]uint8{
